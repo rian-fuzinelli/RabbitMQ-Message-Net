@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RabbitSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5290424b2651d2c043d075e5c6b77b2d15179de5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RabbitSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RabbitSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
